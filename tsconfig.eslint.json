@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/app/app.component.ts",
+    "src/app/app.config.ts",
+    "src/app/app.routes.ts",
+    "src/app/core/core.ts",
+    "src/main.ts",
+    "src/test-setup.ts"
+  ]
+}
